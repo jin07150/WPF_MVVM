@@ -1,0 +1,14 @@
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\bin\Debug\DynamicPieChartMVVMPrism.exe.config
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\bin\Debug\DynamicPieChartMVVMPrism.exe
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\bin\Debug\DynamicPieChartMVVMPrism.pdb
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\obj\Debug\DynamicPieChartMVVMPrism.csprojAssemblyReference.cache
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\obj\Debug\MainWindow.g.cs
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\obj\Debug\App.g.cs
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\obj\Debug\DynamicPieChartMVVMPrism_MarkupCompile.cache
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\obj\Debug\DynamicPieChartMVVMPrism_MarkupCompile.lref
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\obj\Debug\MainWindow.baml
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\obj\Debug\DynamicPieChartMVVMPrism.g.resources
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\obj\Debug\DynamicPieChartMVVMPrism.Properties.Resources.resources
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\obj\Debug\DynamicPieChartMVVMPrism.csproj.GenerateResource.cache
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\obj\Debug\DynamicPieChartMVVMPrism.exe
+C:\Users\jin07\source\repos\jin07150\WPF_MVVM\DynamicPieChartMVVMPrism\DynamicPieChartMVVMPrism\obj\Debug\DynamicPieChartMVVMPrism.pdb
