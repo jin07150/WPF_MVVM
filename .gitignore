@@ -10,3 +10,7 @@
 /DynamicPieChartMVVMPrism/DynamicPieChartMVVMPrism/bin
 /PrismMVVM_wpfControlPopertyChangeWithButton/bin
 /PrismMVVM_wpfControlPopertyChangeWithButton/obj
+bin
+obj
+.vs
+
