@@ -1,0 +1,2 @@
+change Label control's property with two buttons 'show' and 'hide'.
+ . for binding in view(*.xaml), viewmodel's variable should be get/set(SetProperty(ref .., value))
